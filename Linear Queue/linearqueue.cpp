@@ -37,10 +37,8 @@ class queue{
                 cout<<"Queue is full";
             }
             else{
-                for ( int x=0; x < n; x++ ){
-                    rear++;
-                    queue::arr[rear] = arr[x];
-                }
+                rear++;
+                arr[rear] = val;
             }
 
         }

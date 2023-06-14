@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/Many Languages/Data Structures/Linked List",
-      "program": "e:/Many Languages/Data Structures/Linked List/build/Debug/outDebug",
+      "cwd": "e:/Many Languages/Data Structures",
+      "program": "e:/Many Languages/Data Structures/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
