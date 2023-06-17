@@ -1,0 +1,7 @@
+Hash collision
+    when the function generates the same index for multiple keys.
+    
+1-Collision resolution by chaining.
+2-Collision resolution by open addressing.
+--linear probing: h(k,i)=(h'(k)+i) % m
+--quadratic probing: h(k,i)=(h'(k)+c1*i+c2*i^2) % m
